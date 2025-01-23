@@ -16,3 +16,39 @@ A simple and secure **Password Generator Application** built with Python and Tki
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/pwdgenerator.py.git
+Navigate to the project directory:
+
+bash
+cd password-generator
+Run the application:
+
+bash
+python password_generator.py
+
+Usage
+Enter the desired password length.
+
+Select the complexity options (uppercase letters, numbers, special characters).
+
+Click "Generate" to create a secure password.
+
+View the generated password and its history.
+
+Screenshots
+![image](https://github.com/user-attachments/assets/7c02ee6f-efe3-4194-8ca9-267d16f96d8a)
+
+Technologies Used
+Python: Main programming language.
+
+Tkinter: For the graphical user interface (GUI).
+
+Random Module: For generating random passwords.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact
+For any questions or feedback, feel free to reach out:
+
+Email: lakhal99@yahoo.fr
+LinkedIn: Omar Lakhal
