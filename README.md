@@ -15,4 +15,4 @@ A simple and secure **Password Generator Application** built with Python and Tki
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/your-username/pwdgenerator.py.git
